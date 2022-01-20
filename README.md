@@ -1,4 +1,5 @@
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ad69b20a-368d-4360-ae6c-03ad5000cc29/deploy-status)](https://app.netlify.com/sites/lreimer/deploys)
 
 # Bluise - A Nuxt.js & Netlify CMS boilerplate.
 
