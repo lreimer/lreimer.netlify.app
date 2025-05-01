@@ -49,7 +49,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative h-screen flex items-center justify-center bg-gradient-to-b from-primary/10 to-background">
         <div className="container px-4 mx-auto text-center">
-          <h1 className="text-6xl font-bold mb-6 animate-fade-in">John Doe</h1>
+          <h1 className="text-6xl font-bold mb-6 animate-fade-in">M.-Leander Reimer</h1>
           <p className="text-2xl text-muted-foreground mb-8">
             Full Stack Developer & UI/UX Designer
           </p>
@@ -84,14 +84,12 @@ export default function Home() {
             </div>
             <div>
               <p className="text-lg mb-6 leading-relaxed">
-                I'm a passionate developer with over 5 years of experience in creating beautiful and functional web applications. I specialize in React, Next.js, and modern web technologies.
+              M.-Leander Reimer is managing director and CTO at QAware GmbH. He is a senior software developer and architect with several years of experience in designing complex and distributed system architectures. He is continuously looking for innovations and ways to combine and apply state-of-the-art technology and open source software components in real-world projects. He studied computer science at Rosenheim and Staffordshire University and he is teaching software quality assurance as a part time lecturer.
               </p>
               <div className="flex flex-wrap gap-2 mb-8">
-                <Badge variant="secondary">React</Badge>
-                <Badge variant="secondary">Next.js</Badge>
-                <Badge variant="secondary">TypeScript</Badge>
-                <Badge variant="secondary">Node.js</Badge>
-                <Badge variant="secondary">Tailwind CSS</Badge>
+                <Badge variant="secondary">Java</Badge>
+                <Badge variant="secondary">Kubernetes</Badge>
+                <Badge variant="secondary">Cloud</Badge>
               </div>
               <div className="flex gap-4">
                 <Button variant="outline" size="lg">
@@ -187,7 +185,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="py-8 border-t">
         <div className="container px-4 mx-auto text-center text-muted-foreground">
-          <p>© 2024 John Doe. All rights reserved.</p>
+          <p>© 2025 M.-Leander Reimer. All rights reserved.</p>
         </div>
       </footer>
     </main>
